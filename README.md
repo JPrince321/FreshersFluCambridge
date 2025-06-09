@@ -1,9 +1,8 @@
 # FreshersFluCambridge
 
 Group Production -> Social nature generation -> Timetable lectures meals -> budget creation -> calender finish -> disease spread -> disease analysis.
-<br>
-# AI SUMMARY BELOW
-<br>
+### AI SUMMARY BELOW
+
 # Group Production:
 1. Loading Data and Setting Up Students
 First, the notebook loads in two key files: one with subject effects (like how likely a subject is to have female students or bigger groups), and another with the number of students per subject, college, and year.
