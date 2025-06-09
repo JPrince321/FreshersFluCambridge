@@ -1,0 +1,233 @@
+Name,Latitude,Longitude,Location Type,Individual Link
+Christ's,52.2052,0.1217,College,College
+Churchill,52.2139,0.103,College,College
+Clare,52.2051,0.1158,College,College
+Clare Hall,52.2041,0.1045,College,College
+Corpus Christi,52.2036,0.1193,College,College
+Darwin,52.201,0.1147,College,College
+Downing,52.2007,0.1248,College,College
+Emmanuel,52.2033,0.126,College,College
+Fitzwilliam,52.2152,0.1102,College,College
+Girton,52.2286,0.0839,College,College
+Gonville and Caius,52.2055,0.1189,College,College
+Homerton,52.1851,0.1367,College,College
+Hughes Hall,52.1994,0.1336,College,College
+Jesus,52.2073,0.1218,College,College
+King's,52.2045,0.1171,College,College
+Lucy Cavendish,52.2111,0.1099,College,College
+Magdalene,52.21,0.1175,College,College
+Murray Edwards,52.2141,0.1092,College,College
+Newnham,52.1997,0.1078,College,College
+Pembroke,52.2019,0.1221,College,College
+Peterhouse,52.201,0.1205,College,College
+Queens',52.2025,0.1156,College,College
+Robinson,52.2065,0.1082,College,College
+St Catharine's,52.2039,0.1177,College,College
+St Edmund's,52.2125,0.1086,College,College
+St John's,52.2079,0.1171,College,College
+Trinity,52.207,0.117,College,College
+Selwyn,52.2005,0.1056,College,College
+Trinity Hall,52.206,0.116,College,College
+Sidney Sussex,52.2065,0.1232,College,College
+The Eagle,52.2043,0.1197,Pub,College
+The Anchor,52.2021,0.1165,Pub,College
+The Mill,52.2012,0.1166,Pub,College
+The Maypole,52.2084,0.1191,Pub,College
+The Free Press,52.2005,0.1284,Pub,College
+The Pickerel Inn,52.2096,0.1174,Pub,College
+The Mitre,52.209,0.1179,Pub,College
+The Castle Inn,52.2112,0.1147,Pub,College
+The Pint Shop,52.2035,0.1207,Pub,College
+The Cambridge Blue,52.1965,0.1381,Pub,College
+The Bath House,52.2018,0.1232,Pub,College
+The Old Spring,52.2145,0.1292,Pub,College
+The Punter,52.211,0.116,Pub,College
+The Haymakers,52.2166,0.1378,Pub,College
+The Waterman,52.2139,0.1368,Pub,College
+The Grain & Hop Store,52.2024,0.125,Pub,College
+The Tivoli,52.2075,0.1332,Pub,College
+The Orator,52.204,0.12,Pub,College
+The Baron of Beef,52.2089,0.1175,Pub,College
+The Champion of the Thames,52.2057,0.1182,Pub,College
+MASH,52.2052,0.1202,Club,
+Lola Lo,52.2046,0.1207,Club,
+Revolution,52.202,0.1245,Club,
+Vinyl,52.2043,0.1208,Club,
+Sainsbury's (Sidney Street),52.2061,0.1215,Supermarket,College
+Tesco Superstore (Newmarket Rd),52.2118,0.1506,Supermarket,College
+Aldi Histon Road,52.21945,0.11071,Supermarket,College
+"Tesco Express, Christ's Lane",52.2061,0.1218,Supermarket,College
+"Co-op, Mill Road	",52.1995,0.1383,Supermarket,College
+"Co-op, Hills Road	",52.1938,0.1303,Supermarket,College
+"Tesco Express, Petty Cury",52.2045,0.1208,Supermarket,College
+M&S Foodhall (Market Square),52.2051,0.1195,Supermarket,
+University Library,52.2049,0.1093,Library,
+Parker's Piece,52.2018,0.1287,Outside,
+Jesus Green,52.2114,0.1206,Outside,
+Grand Arcade Shopping Centre,52.2033,0.1221,Supermarket,
+Christ's College bar,52.2052,0.1217,College Bar,College
+Churchill College bar,52.2139,0.103,College Bar,College
+Clare College bar,52.2051,0.1158,College Bar,College
+Clare Hall bar,52.2041,0.1045,College Bar,College
+Corpus Christi College bar,52.2036,0.1193,College Bar,College
+Darwin College bar,52.201,0.1147,College Bar,College
+Downing College bar,52.2007,0.1248,College Bar,College
+Emmanuel College bar,52.2033,0.126,College Bar,College
+Fitzwilliam College bar,52.2152,0.1102,College Bar,College
+Girton College bar,52.2286,0.0839,College Bar,College
+Gonville & Caius College bar,52.2055,0.1189,College Bar,College
+Homerton College bar,52.1851,0.1367,College Bar,College
+Hughes Hall bar,52.1994,0.1336,College Bar,College
+Jesus College bar,52.2073,0.1218,College Bar,College
+King's College bar,52.2045,0.1171,College Bar,College
+Lucy Cavendish College bar,52.2111,0.1099,College Bar,College
+Magdalene College bar,52.21,0.1175,College Bar,College
+Murray Edwards College bar,52.2141,0.1092,College Bar,College
+Newnham College bar,52.1997,0.1078,College Bar,College
+Pembroke College bar,52.2019,0.1221,College Bar,College
+Peterhouse bar,52.201,0.1205,College Bar,College
+Queens' College bar,52.2025,0.1156,College Bar,College
+Robinson College bar,52.2065,0.1082,College Bar,College
+St Catharine's College bar,52.2039,0.1177,College Bar,College
+St Edmund's College bar,52.2125,0.1086,College Bar,College
+St John's College bar,52.2079,0.1171,College Bar,College
+Selwyn College bar,52.2005,0.1056,College Bar,College
+Trinity College bar,52.207,0.117,College Bar,College
+Trinity Hall College bar,52.206,0.116,College Bar,College
+Sidney Sussex College bar,52.2065,0.1232,College Bar,College
+Christ's College Canteen,52.2052,0.1217,Canteen,College
+Churchill College Canteen,52.2139,0.103,Canteen,College
+Clare College Canteen,52.2051,0.1158,Canteen,College
+Clare Hall Canteen,52.2041,0.1045,Canteen,College
+Corpus Christi College Canteen,52.2036,0.1193,Canteen,College
+Darwin College Canteen,52.201,0.1147,Canteen,College
+Downing College Canteen,52.2007,0.1248,Canteen,College
+Emmanuel College Canteen,52.2033,0.126,Canteen,College
+Fitzwilliam College Canteen,52.2152,0.1102,Canteen,College
+Girton College Canteen,52.2286,0.0839,Canteen,College
+Gonville & Caius College Canteen,52.2055,0.1189,Canteen,College
+Homerton College Canteen,52.1851,0.1367,Canteen,College
+Hughes Hall Canteen,52.1994,0.1336,Canteen,College
+Jesus College Canteen,52.2073,0.1218,Canteen,College
+King's College Canteen,52.2045,0.1171,Canteen,College
+Lucy Cavendish College Canteen,52.2111,0.1099,Canteen,College
+Magdalene College Canteen,52.21,0.1175,Canteen,College
+Murray Edwards College Canteen,52.2141,0.1092,Canteen,College
+Newnham College Canteen,52.1997,0.1078,Canteen,College
+Pembroke College Canteen,52.2019,0.1221,Canteen,College
+Peterhouse Canteen,52.201,0.1205,Canteen,College
+Queens' College Canteen,52.2025,0.1156,Canteen,College
+Robinson College Canteen,52.2065,0.1082,Canteen,College
+St Catharine's College Canteen,52.2039,0.1177,Canteen,College
+St Edmund's College Canteen,52.2125,0.1086,Canteen,College
+St John's College Canteen,52.2079,0.1171,Canteen,College
+Selwyn College Canteen,52.2005,0.1056,Canteen,College
+Trinity College Canteen,52.207,0.117,Canteen,College
+Trinity hall college Canteen,52.206,0.116,Canteen,College
+Sidney Sussex College Canteen,52.2065,0.1232,Canteen,College
+Christ's College Library,52.2052,0.1217,College Library,College
+Churchill College Library,52.2139,0.103,College Library,College
+Clare College Library,52.2051,0.1158,College Library,College
+Clare Hall Library,52.2041,0.1045,College Library,College
+Corpus Christi College Library,52.2036,0.1193,College Library,College
+Darwin College Library,52.201,0.1147,College Library,College
+Downing College Library,52.2007,0.1248,College Library,College
+Emmanuel College Library,52.2033,0.126,College Library,College
+Fitzwilliam College Library,52.2152,0.1102,College Library,College
+Girton College Library,52.2286,0.0839,College Library,College
+Gonville & Caius College Library,52.2055,0.1189,College Library,College
+Homerton College Library,52.1851,0.1367,College Library,College
+Hughes Hall Library,52.1994,0.1336,College Library,College
+Jesus College Library,52.2073,0.1218,College Library,College
+King's College Library,52.2045,0.1171,College Library,College
+Lucy Cavendish College Library,52.2111,0.1099,College Library,College
+Magdalene College Library,52.21,0.1175,College Library,College
+Murray Edwards College Library,52.2141,0.1092,College Library,College
+Newnham College Library,52.1997,0.1078,College Library,College
+Pembroke College Library,52.2019,0.1221,College Library,College
+Peterhouse Library,52.201,0.1205,College Library,College
+Queens' College Library,52.2025,0.1156,College Library,College
+Robinson College Library,52.2065,0.1082,College Library,College
+St Catharine's College Library,52.2039,0.1177,College Library,College
+St Edmund's College Library,52.2125,0.1086,College Library,College
+St John's College Library,52.2079,0.1171,College Library,College
+Selwyn College Library,52.2005,0.1056,College Library,College
+Trinity College Library,52.207,0.117,College Library,College
+Trinity Hall Library,52.206,0.116,College Library,College
+Sidney Sussex College Library,52.2065,0.1232,College Library,College
+Architecture Tripos Lectures,0,0,Lecture Hall,Subject
+Asian & Middle Eastern Studies Lectures,0,0,Lecture Hall,Subject
+Chem Eng via Engineering Lectures,0,0,Lecture Hall,Subject
+Chem Eng via Nat Sciences Lectures,0,0,Lecture Hall,Subject
+Classical Tripos Lectures,0,0,Lecture Hall,Subject
+Classical Tripos Four Year Lectures,0,0,Lecture Hall,Subject
+Computer Science Tripos Lectures,0,0,Lecture Hall,Subject
+Economics Tripos Lectures,0,0,Lecture Hall,Subject
+Education Tripos Lectures,0,0,Lecture Hall,Subject
+Engineering Tripos Lectures,0,0,Lecture Hall,Subject
+English Tripos Lectures,0,0,Lecture Hall,Subject
+Geographical Tripos Lectures,0,0,Lecture Hall,Subject
+Historical Tripos Lectures,0,0,Lecture Hall,Subject
+History of Art Tripos Lectures,0,0,Lecture Hall,Subject
+"Hum, Soc & Pol Sciences Tripos Lectures",0,0,Lecture Hall,Subject
+Land Economy Tripos Lectures,0,0,Lecture Hall,Subject
+Law Tripos Lectures,0,0,Lecture Hall,Subject
+Linguistics Tripos Lectures,0,0,Lecture Hall,Subject
+Mathematical Tripos Lectures,0,0,Lecture Hall,Subject
+Medicine Lectures,0,0,Lecture Hall,Subject
+Mod & Med Langs Tripos Lectures,0,0,Lecture Hall,Subject
+Music Tripos Lectures,0,0,Lecture Hall,Subject
+Natural Sciences Tripos Lectures,0,0,Lecture Hall,Subject
+Philosophy Tripos Lectures,0,0,Lecture Hall,Subject
+Psych & Behav Sciences Tripos Lectures,0,0,Lecture Hall,Subject
+"Theo,Relig,&Philo of Re Tripos Lectures",0,0,Lecture Hall,Subject
+History & Politics Tripos Lectures,0,0,Lecture Hall,Subject
+History and Mod Lang Tripos Lectures,0,0,Lecture Hall,Subject
+Veterinary Medicine Lectures,0,0,Lecture Hall,Subject
+Archaeology Tripos Lectures,0,0,Lecture Hall,Subject
+ASNC Tripos Lectures,0,0,Lecture Hall,Subject
+Theol for Ministry Exam Lectures,0,0,Lecture Hall,Subject
+Medicine (Graduate Course) Lectures,0,0,Lecture Hall,Subject
+Architecture Tripos Library,0,0,Subject Library,Subject
+Asian & Middle Eastern Studies Library,0,0,Subject Library,Subject
+Chem Eng via Engineering Library,0,0,Subject Library,Subject
+Chem Eng via Nat Sciences Library,0,0,Subject Library,Subject
+Classical Tripos Library,0,0,Subject Library,Subject
+Classical Tripos Four Year Library,0,0,Subject Library,Subject
+Computer Science Tripos Library,0,0,Subject Library,Subject
+Economics Tripos Library,0,0,Subject Library,Subject
+Education Tripos Library,0,0,Subject Library,Subject
+Engineering Tripos Library,0,0,Subject Library,Subject
+English Tripos Library,0,0,Subject Library,Subject
+Geographical Tripos Library,0,0,Subject Library,Subject
+Historical Tripos Library,0,0,Subject Library,Subject
+History of Art Tripos Library,0,0,Subject Library,Subject
+"Hum, Soc & Pol Sciences Tripos Library",0,0,Subject Library,Subject
+Land Economy Tripos Library,0,0,Subject Library,Subject
+Law Tripos Library,0,0,Subject Library,Subject
+Linguistics Tripos Library,0,0,Subject Library,Subject
+Mathematical Tripos Library,0,0,Subject Library,Subject
+Medicine Library,0,0,Subject Library,Subject
+Mod & Med Langs Tripos Library,0,0,Subject Library,Subject
+Music Tripos Library,0,0,Subject Library,Subject
+Natural Sciences Tripos Library,0,0,Subject Library,Subject
+Philosophy Tripos Library,0,0,Subject Library,Subject
+Psych & Behav Sciences Tripos Library,0,0,Subject Library,Subject
+"Theo,Relig,&Philo of Re Tripos Library",0,0,Subject Library,Subject
+History & Politics Tripos Library,0,0,Subject Library,Subject
+History and Mod Lang Tripos Library,0,0,Subject Library,Subject
+Veterinary Medicine Library,0,0,Subject Library,Subject
+Archaeology Tripos Library,0,0,Subject Library,Subject
+ASNC Tripos Library,0,0,Subject Library,Subject
+Theol for Ministry Exam Library,0,0,Subject Library,Subject
+Medicine (Graduate Course) Library,0,0,Subject Library,Subject
+Fitzbillies,52.2017,0.119,Caff,College
+The Copper Kettle,52.2047,0.1181,Caff,College
+Bould Brothers Coffee,52.2036,0.1226,Caff,College
+Aromi,52.2046,0.1205,Caff,College
+Hot Numbers Coffee,52.1916,0.1378,Caff,College
+Stir,52.2166,0.1378,Caff,College
+Indigo Coffee House,52.2018,0.1232,Caff,College
+Michaelhouse Cafe,52.2062,0.1187,Caff,College
+Outside,0,0,Outdoors,
+Alone,0,0,Outdoors,
