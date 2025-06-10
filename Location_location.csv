@@ -229,5 +229,7 @@ Hot Numbers Coffee,52.1916,0.1378,Caff,College
 Stir,52.2166,0.1378,Caff,College
 Indigo Coffee House,52.2018,0.1232,Caff,College
 Michaelhouse Cafe,52.2062,0.1187,Caff,College
-Outside,0,0,Outdoors,
-Alone,0,0,Outdoors,
+Outside,0,0,Outdoors,None
+Alone,0,0,Outdoors,None
+Room Posts,0,0,Pub,Group
+Other,0,0,Outdoors,None
