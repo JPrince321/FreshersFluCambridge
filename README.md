@@ -1,7 +1,10 @@
 # FreshersFluCambridge
 
+
 Group Production -> Social nature generation -> Timetable lectures meals -> budget creation -> calender finish -> disease spread -> disease analysis.
-### AI SUMMARY BELOW
+
+## READ FINAL REPORT TO UNDERSTAND THE MODEL
+## AI SUMMARY BELOW (OUT OF DATE AND BAD)
 
 # Group Production:
 1. Loading Data and Setting Up Students
